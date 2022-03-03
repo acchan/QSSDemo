@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="QSS Demo Config">52a5a73c1b064110f6c60f26cc4bcbfa</app_config>
+        <description/>
+        <event_mappings>[ {
+  "eventMappingId" : "claaaorxxeeaaaabbcddeiiiiggnaayddtjjhh",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "x_snc_qss_demo.CANVAS_MODAL#CLOSED_RELAY_4abe2f301b864110f6c60f26cc4bcb9b",
+  "sourceEventCorrelationId" : null,
+  "sourceEventDefinition" : {
+    "apiName" : "x_snc_qss_demo.CANVAS_MODAL#CLOSED_RELAY_4abe2f301b864110f6c60f26cc4bcb9b",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "declarativeAction" : null,
+    "event" : {
+      "apiName" : "sn_canvas_core.CANVAS_MODAL#CLOSED",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "modalInstanceId" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "modalInstanceId" ]
+            }
+          }
+        }
+      },
+      "sysId" : "5527ec5cf5ac11c053169844f273481a"
+    },
+    "operation" : null,
+    "targetId" : "claaaorxxeeaaaabbbddeiiiiiidifejjhz",
+    "type" : "EVENT"
+  } ]
+} ]</event_mappings>
+        <macroponent display_value="Record">4abe2f301b864110f6c60f26cc4bcb9b</macroponent>
+        <macroponent_config>{
+  "sysid" : "",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Record default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Record">8ebe2f301b864110f6c60f26cc4bcb96</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-03 07:07:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8abe2f301b864110f6c60f26cc4bcb9e</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Record default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="QSS Demo" source="x_snc_qss_demo">0f0866381b0e0110f6c60f26cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="QSS Demo">0f0866381b0e0110f6c60f26cc4bcb64</sys_scope>
+        <sys_update_name>sys_ux_screen_8abe2f301b864110f6c60f26cc4bcb9e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-03 07:48:42</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=8abe2f301b864110f6c60f26cc4bcb9e"/>
+</record_update>

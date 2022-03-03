@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>7</order>
+        <published_ref display_value="Request for help">9ecd43781b424110f6c60f26cc4bcbaf</published_ref>
+        <question display_value="Subject">efbecbf81b424110f6c60f26cc4bcbbe</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-03 04:47:22</sys_created_on>
+        <sys_id>27becbf81b424110f6c60f26cc4bcbe1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request for help</sys_name>
+        <sys_package display_value="QSS Demo" source="x_snc_qss_demo">0f0866381b0e0110f6c60f26cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="QSS Demo">0f0866381b0e0110f6c60f26cc4bcb64</sys_scope>
+        <sys_update_name>question_choice_27becbf81b424110f6c60f26cc4bcbe1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-03 04:47:22</sys_updated_on>
+        <text>Request for help</text>
+        <value>Request for help</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=27becbf81b424110f6c60f26cc4bcbe1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="QSS Demo">0f0866381b0e0110f6c60f26cc4bcb64</application>
+        <file_path/>
+        <instance_id>d0139647dba67c1052cec597059619f7</instance_id>
+        <instance_name>asato9demo</instance_name>
+        <name>question_choice_27becbf81b424110f6c60f26cc4bcbe1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>7</order><published_ref display_value="Request for help">9ecd43781b424110f6c60f26cc4bcbaf</published_ref><question display_value="Subject">efbecbf81b424110f6c60f26cc4bcbbe</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-03 04:47:22</sys_created_on><sys_id>27becbf81b424110f6c60f26cc4bcbe1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Request for help</sys_name><sys_package display_value="QSS Demo" source="x_snc_qss_demo">0f0866381b0e0110f6c60f26cc4bcb64</sys_package><sys_policy/><sys_scope display_value="QSS Demo">0f0866381b0e0110f6c60f26cc4bcb64</sys_scope><sys_update_name>question_choice_27becbf81b424110f6c60f26cc4bcbe1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-03 04:47:22</sys_updated_on><text>Request for help</text><value>Request for help</value></question_choice><fx_price action="delete_multiple" query="id=27becbf81b424110f6c60f26cc4bcbe1"/></record_update>]]></payload>
+        <payload_hash>1893545026</payload_hash>
+        <record_name>Request for help</record_name>
+        <reverted_from/>
+        <source>7cc82e781b0e0110f6c60f26cc4bcb6c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-03 04:47:22</sys_created_on>
+        <sys_id>afbecbf81b424110f6c60f26cc4bcbe3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f4e1aa2a70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-03 04:47:22</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>e3becbf87a42411003ec16c2e7583ae3</update_guid>
+        <update_guid_history>e3becbf87a42411003ec16c2e7583ae3:1893545026</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Request for help">b2af433c1b820910d21e7774cc4bcba1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-03-03 04:51:25</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>10579ed115334d878875761241106d21</sys_id>
+        <sys_metadata>27becbf81b424110f6c60f26cc4bcbe1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request for help</sys_name>
+        <sys_package display_value="QSS Demo" source="x_snc_qss_demo">0f0866381b0e0110f6c60f26cc4bcb64</sys_package>
+        <sys_parent display_value="">efbecbf81b424110f6c60f26cc4bcbbe</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="QSS Demo">0f0866381b0e0110f6c60f26cc4bcb64</sys_scope>
+        <sys_scope_delete display_value="">25d622882d05483e8ead727d7d8c8424</sys_scope_delete>
+        <sys_update_name>question_choice_27becbf81b424110f6c60f26cc4bcbe1</sys_update_name>
+        <sys_update_version display_value="question_choice_27becbf81b424110f6c60f26cc4bcbe1">afbecbf81b424110f6c60f26cc4bcbe3</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-03-03 04:51:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

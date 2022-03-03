@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="QSS Bearing">35cd4b381b424110f6c60f26cc4bcba3</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-03 04:43:10</sys_created_on>
+        <sys_id>4ecd43781b424110f6c60f26cc4bcb33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.QSS Bearing</sys_name>
+        <sys_package display_value="QSS Demo" source="x_snc_qss_demo">0f0866381b0e0110f6c60f26cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="QSS Demo">0f0866381b0e0110f6c60f26cc4bcb64</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_4ecd43781b424110f6c60f26cc4bcb33</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-03 04:43:10</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="QSS Demo">0f0866381b0e0110f6c60f26cc4bcb64</application>
+        <file_path/>
+        <instance_id>d0139647dba67c1052cec597059619f7</instance_id>
+        <instance_name>asato9demo</instance_name>
+        <name>sc_cat_item_catalog_4ecd43781b424110f6c60f26cc4bcb33</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="QSS Bearing">35cd4b381b424110f6c60f26cc4bcba3</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-03 04:43:10</sys_created_on><sys_id>4ecd43781b424110f6c60f26cc4bcb33</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.QSS Bearing</sys_name><sys_package display_value="QSS Demo" source="x_snc_qss_demo">0f0866381b0e0110f6c60f26cc4bcb64</sys_package><sys_policy/><sys_scope display_value="QSS Demo">0f0866381b0e0110f6c60f26cc4bcb64</sys_scope><sys_update_name>sc_cat_item_catalog_4ecd43781b424110f6c60f26cc4bcb33</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-03 04:43:10</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1305201737</payload_hash>
+        <record_name>Service Catalog.QSS Bearing</record_name>
+        <reverted_from/>
+        <source>7cc82e781b0e0110f6c60f26cc4bcb6c</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-03 04:43:10</sys_created_on>
+        <sys_id>0acd43781b424110f6c60f26cc4bcb37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f4e16c86c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-03 04:43:10</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>02cd4378cb4241109f496b4d7e905a37</update_guid>
+        <update_guid_history>02cd4378cb4241109f496b4d7e905a37:-1305201737</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.QSS Bearing">2eaf433c1b820910d21e7774cc4bcb5b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-03-03 04:51:23</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>54d527d212de4ea4a75487a745da7b51</sys_id>
+        <sys_metadata>4ecd43781b424110f6c60f26cc4bcb33</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.QSS Bearing</sys_name>
+        <sys_package display_value="QSS Demo" source="x_snc_qss_demo">0f0866381b0e0110f6c60f26cc4bcb64</sys_package>
+        <sys_parent display_value="QSS Bearing">35cd4b381b424110f6c60f26cc4bcba3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="QSS Demo">0f0866381b0e0110f6c60f26cc4bcb64</sys_scope>
+        <sys_scope_delete display_value="">25d622882d05483e8ead727d7d8c8424</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_4ecd43781b424110f6c60f26cc4bcb33</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_4ecd43781b424110f6c60f26cc4bcb33">0acd43781b424110f6c60f26cc4bcb37</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-03-03 04:51:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

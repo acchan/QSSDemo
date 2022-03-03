@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-03-03 06:27:37</sys_created_on>
+        <sys_id>4cb56b3c1b064110f6c60f26cc4bcbad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1ea5a73c1b064110f6c60f26cc4bcbfa.x_snc_qss_demo.factory</sys_name>
+        <sys_package display_value="QSS Demo" source="x_snc_qss_demo">0f0866381b0e0110f6c60f26cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="QSS Demo">0f0866381b0e0110f6c60f26cc4bcb64</sys_scope>
+        <sys_security_acl display_value="1ea5a73c1b064110f6c60f26cc4bcbfa">aea5e73c040641100d45860e6420fe24</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4cb56b3c1b064110f6c60f26cc4bcbad</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-03-03 06:27:37</sys_updated_on>
+        <sys_user_role display_value="x_snc_qss_demo.factory" name="x_snc_qss_demo.factory">6f3826781b0e0110f6c60f26cc4bcb3e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

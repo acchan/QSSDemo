@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="QSS Bearing - Factory Task" max_length="40" name="x_snc_qss_demo_qss_bearing_factory_task" type="collection"/>
+</database>
