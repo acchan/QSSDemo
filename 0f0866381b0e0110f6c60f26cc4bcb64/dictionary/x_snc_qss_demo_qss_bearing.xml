@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="task" label="QSS Bearing - Request" max_length="40" name="x_snc_qss_demo_qss_bearing" type="collection">
+    <element audit="true" extends="task" label="QSS Bearing - Request" max_length="40" name="x_snc_qss_demo_qss_bearing" sizeclass="11" type="collection">
+        <element label="Stage" max_length="80" name="stage" read_only="true" type="workflow"/>
         <element attributes="encode_utf8=false" label="Customer" max_length="32" name="u_customer" reference="core_company" type="reference"/>
     </element>
 </database>
